@@ -2,4 +2,4 @@
 
 #console passowrd
 echo "Enter your password"
-read  password
+read -s password
