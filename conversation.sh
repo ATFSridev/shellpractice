@@ -2,8 +2,8 @@
 
 
 #No space before and after =
-FIRST="SSS"
-Sec="RRR"
+FIRST="mySSS"
+Sec="myRRR"
 
 echo "Hi $FIRST"
 echo "Hi $Sec"
