@@ -1,7 +1,9 @@
 #!/bin/bash
 
+
+#No space before and after =
 FIRST="SSS"
 Sec="RRR"
 
-echo "Hi SSSS"
-echo "Hi RRR"
+echo "Hi $FIRST"
+echo "Hi $Sec"
