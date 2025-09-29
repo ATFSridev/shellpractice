@@ -2,4 +2,5 @@
 
 #console passowrd
 echo "Enter your password"
-read -s password
+read -s password   #password is a variable
+echo "Pin entered by you is : $password"
